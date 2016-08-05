@@ -1,0 +1,56 @@
+_repo: Rob-Roy---Complete_7025
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 7025/7025-h/images/bookcover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Cleishbotham, Jedediah
+    - Templeton, Laurence
+    - Scott, Sir Walter
+    - Malagrowther, Malachi
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: "Rob Roy (1817) is a historical novel by Walter Scott. It is narrated\
+  \ by Frank Osbaldistone, the son of an English merchant who travels first to the\
+  \ North of England, and subsequently to the Scottish Highlands, to collect a debt\
+  \ stolen from his father. On the way he encounters the larger-than-life title character,\
+  \ Rob Roy MacGregor. Though Rob Roy is not the lead character (in fact, the narrative\
+  \ does not move to Scotland until halfway through the book), his personality and\
+  \ actions are key to the novel's development.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2004-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7025'
+  wikidata: Q2156104
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- History -- 1689-1745 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Rob Roy, 1671-1734 -- Fiction'
+- GITenberg
+title: Rob Roy — Complete
+url: http://www.gutenberg.org/ebooks/7025
+wikipedia:
+- https://fr.wikipedia.org/wiki/Rob_Roy_(roman)
+- https://ar.wikipedia.org/wiki/%D8%B1%D9%88%D8%A8_%D8%B1%D9%88%D9%8A_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://pt.wikipedia.org/wiki/Rob_Roy_(romance)
+- https://de.wikipedia.org/wiki/Rob_Roy_(Walter_Scott)
+- https://en.wikipedia.org/wiki/Rob_Roy_(novel)
+- https://pl.wikipedia.org/wiki/Rob_Roy_(powie%C5%9B%C4%87)
+- https://sco.wikipedia.org/wiki/Rob_Roy_(novel)
+- https://hy.wikipedia.org/wiki/%D5%8C%D5%B8%D5%A2_%D5%8C%D5%B8%D5%B5_(%D5%BE%D5%A5%D5%BA)
+- https://it.wikipedia.org/wiki/Rob_Roy_(romanzo)
+- https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B1_%D0%A0%D0%BE%D0%B9_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://el.wikipedia.org/wiki/%CE%A1%CE%BF%CE%BC%CF%80_%CE%A1%CF%8C%CF%85
